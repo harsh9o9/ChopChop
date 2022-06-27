@@ -2,7 +2,7 @@
 It is a simple game developed using C++, and SFML (Simple and Fast Multimedia Library) Graphics library.
 
 ## Downlaod Link for final build:
-Link: [](bit.ly/complex_problem)
+Link: bit.ly/complex_problem
 
 ## Images of Build version:
 ### Start View:
